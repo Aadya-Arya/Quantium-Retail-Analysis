@@ -2,6 +2,7 @@ Quantium Retail Analytics Project (Chips Category): This project is a part of th
 The dataset used in this project are: 
 1) Chips retail data.csv 
 2) Chips retail_purchase_behaviour.csv
+   
 The findings are:
 Question 1: What types of customers are buying chips?
 Question 2: Which brands are performing best overall and within customer segments?
