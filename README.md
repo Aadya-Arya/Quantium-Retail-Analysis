@@ -17,4 +17,7 @@ Question 5: Which trial stores performed well and which didn’t for total sales
 
 Question 6: Which trial stores performed well and which didn’t for number of customer?
 
+Question 7: Recommandation for each trial stores (77,86,88) based on p-value.
+
+
 
